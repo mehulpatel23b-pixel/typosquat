@@ -1,0 +1,3 @@
+# brands I defend, one per line
+example.com
+example.co.uk
